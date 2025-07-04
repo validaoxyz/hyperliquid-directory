@@ -104,7 +104,7 @@ When implementing `X-Forwarded-For` based rate limiting, whitelist these hosts:
 - `eu.rpc.hyperliquid.directory`
 - `tyo.rpc.hyperliquid.directory`
 
-Feel free to (ping us)[https://t.me/murakamikaze] for support on this
+Feel free to [ping us](https://t.me/murakamikaze) for support on this
 
 ## Contributing
 
