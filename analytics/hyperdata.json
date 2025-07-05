@@ -1,0 +1,11 @@
+{
+    "entity": "Hyperdata",
+    "dashboards": [
+      {
+        "name": "Hyperdata",
+        "url": "https://hyperdata.info/",
+        "description": "Real-time Hypercore analytics.",
+        "type": "custom"
+      }
+    ]
+  }

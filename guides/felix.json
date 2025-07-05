@@ -1,0 +1,33 @@
+{
+    "entity": "Felix",
+    "guides": [
+      {
+        "title": "Builder Codes and the Future of Hyperliquid as Infra",
+        "description": "A breakdown of the emerging builder code ecosystem.",
+        "url": "https://x.com/0xBroze/status/1938603649917153661"
+      },
+      {
+        "title": "Explain the Unit Guardian System Like I’m 5: BTC on Hyperliquid",
+        "description": "A simple explanation of the Unit Guardian System.",
+        "url": "https://x.com/0xBroze/status/1890761476501131353",
+        "difficulty": "beginner",
+        "topics": ["defi", "unit"]
+      },
+      {
+        "title": "Unlocking Efficient Liquidations: The Power of HyperCore<>HyperEVM Composability",
+        "description": "The power of composability between HyperCore and HyperEVM.",
+        "url": "https://x.com/0xBroze/status/1900525372707574012"
+      },
+      {
+        "title": "How Hyperliquid’s Precompile Architecture Enables Real Time Awareness",
+        "description": "How precompiles unlock real time awareness on Hyperliquid.",
+        "url": "https://x.com/emaverick90/status/1924805040121815399"
+      },
+      {
+        "title": "Plug-and-Play Perps Exchange : Launch in Hours w/ Builder Codes & HIP3",
+        "description": "How exchanges can launch overnight with deeper books than Tier-1 CEXs.",
+        "url": "https://x.com/emaverick90/status/1920080068388294942"
+      }
+
+    ]
+  }
