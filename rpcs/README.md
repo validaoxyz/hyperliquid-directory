@@ -1,6 +1,6 @@
 # RPC Endpoints
 
-Public RPCs for interacting with HL.
+Public RPCs for interacting with HyperEVM.
 
 ## File Format
 
@@ -86,7 +86,25 @@ Which provides:
 - Geographic routing for optimal latency
 - Health monitoring and automatic exclusion of failing endpoints
 
-## Contributing
+## Rate Limiting
+
+Providers can specify rate limits in their endpoint configuration. Our load balancer will enforce these limits per end-user (WIP).
+
+### L7 Proxy Considerations
+
+Our load balancer operates as a Layer 7 proxy, terminating client connections and establishing new ones to upstream providers. This means:
+- All requests to your RPC will originate from our load balancer IPs
+- The original client IP is preserved in the `X-Forwarded-For` header
+- To properly rate limit individual users (not our proxy), configure your infrastructure to evaluate limits based on `X-Forwarded-For`
+
+### Load Balancer Origins
+
+When implementing `X-Forwarded-For` based rate limiting, whitelist these hosts:
+- `us-east.rpc.hyperliquid.directory`
+- `eu.rpc.hyperliquid.directory`
+- `tyo.rpc.hyperliquid.directory`
+
+Feel free to [ping us](https://t.me/murakamikaze) for support on this
 
 ## Contributing
 
