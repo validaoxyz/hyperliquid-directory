@@ -1,0 +1,12 @@
+{
+  "entity": "Copypaste",
+  "tools": [
+    {
+      "name": "Ferrofluid",
+      "description": "High Performance Hyperliquid Rust SDK",
+      "url": "https://github.com/ControlCplusControlV/ferrofluid",
+      "type": "sdk",
+      "language": "Rust"
+    }
+  ]
+} 

@@ -1,0 +1,10 @@
+{
+  "entity": "SQD",
+  "indexers": [
+    {
+      "name": "SQD Hyperliquid Support",
+      "url": "https://docs.sqd.ai/hyperliquid-support/",
+      "description": "SQD provides decentralized data indexing for Hyperliquid, allowing customizable and scalable subgraph-like data querying."
+    }
+  ]
+} 

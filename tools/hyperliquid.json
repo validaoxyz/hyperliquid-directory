@@ -1,0 +1,12 @@
+{
+  "entity": "Hyperliquid",
+  "tools": [
+    {
+      "name": "Hyperliquid Python SDK",
+      "description": "Python SDK example for interacting with HyperEVM.",
+      "url": "https://github.com/hyperliquid-dex/hyperliquid-python-sdk/blob/master/examples/basic_evm_use_big_blocks.py",
+      "type": "sdk",
+      "language": "Python"
+    }
+  ]
+} 

@@ -1,0 +1,12 @@
+{
+  "entity": "Gelato",
+  "tools": [
+    {
+      "name": "Gelato Web3 Services",
+      "description": "Automation and execution tooling for smart contracts.",
+      "url": "https://docs.gelato.network/web3-services",
+      "type": "sdk",
+      "language": "TypeScript"
+    }
+  ]
+} 

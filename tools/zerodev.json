@@ -1,0 +1,12 @@
+{
+  "entity": "ZeroDev",
+  "tools": [
+    {
+      "name": "ZeroDev Account Abstraction",
+      "description": "SDK enabling account abstraction features such as pay‑masters, bundling, and gasless transactions.",
+      "url": "https://docs.zerodev.app/",
+      "type": "sdk",
+      "language": "TypeScript"
+    }
+  ]
+} 

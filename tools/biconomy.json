@@ -1,0 +1,12 @@
+{
+  "entity": "Biconomy",
+  "tools": [
+    {
+      "name": "MEE",
+      "description": "Biconomy's Modular Execution Environment",
+      "url": "https://docs.biconomy.io/new/getting-started/getting-started",
+      "type": "sdk",
+      "language": "Solidity"
+    }
+  ]
+} 

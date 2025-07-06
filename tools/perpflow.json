@@ -1,0 +1,12 @@
+{
+  "entity": "Perpflow",
+  "tools": [
+    {
+      "name": "Trace‑X Call Trace Visualizer",
+      "description": "Paste calldata and run Trace‑X to visualize HyperEVM transaction call traces for debugging.",
+      "url": "https://x.com/perpflow/status/1937146676671598929",
+      "type": "client",
+      "language": "JavaScript"
+    }
+  ]
+} 

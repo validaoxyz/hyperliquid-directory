@@ -1,0 +1,9 @@
+{
+  "entity": "Enso",
+  "apis": [
+    {
+      "name": "Shortcuts API",
+      "url": "https://docs.enso.build/pages/build/get-started/overview"
+    }
+  ]
+} 

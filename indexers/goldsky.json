@@ -1,0 +1,10 @@
+{
+  "entity": "Goldsky",
+  "indexers": [
+    {
+      "name": "Goldsky HyperEVM Indexer",
+      "url": "https://docs.goldsky.com/chains/hyperevm",
+      "description": "Goldsky offers real-time and historical indexing infrastructure for HyperEVM, enabling developers to build fast and reliable on-chain data services."
+    }
+  ]
+} 

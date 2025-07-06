@@ -1,0 +1,12 @@
+{
+  "entity": "DeBridge",
+  "tools": [
+    {
+      "name": "DeBridge Messaging Protocol",
+      "description": "Cross-chain messaging and asset bridging for Hyperliquid.",
+      "url": "https://docs.debridge.finance/the-debridge-messaging-protocol/deployed-contracts#evm-chains",
+      "type": "sdk",
+      "language": "Solidity"
+    }
+  ]
+} 

@@ -1,0 +1,12 @@
+{
+  "entity": "Pyth",
+  "tools": [
+    {
+      "name": "Pyth Price Feeds",
+      "description": "Real-time oracle feeds for EVM including Hyperliquid.",
+      "url": "https://docs.pyth.network/price-feeds/contract-addresses/evm",
+      "type": "sdk",
+      "language": "Solidity"
+    }
+  ]
+} 

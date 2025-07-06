@@ -1,0 +1,12 @@
+{
+  "entity": "LayerZero",
+  "tools": [
+    {
+      "name": "LayerZero Messaging",
+      "description": "Crosschain messaging protocol integrated with Hyperliquid.",
+      "url": "https://docs.layerzero.network/v2/deployments/deployed-contracts?chains=hyperliquid",
+      "type": "sdk",
+      "language": "Solidity"
+    }
+  ]
+} 

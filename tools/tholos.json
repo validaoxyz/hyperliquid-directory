@@ -1,0 +1,12 @@
+{
+  "entity": "Tholos",
+  "tools": [
+    {
+      "name": "Tholos MPC Multisig",
+      "description": "MPC‑based multisig wallet infrastructure for managing assets on Hyperliquid via Tholos.",
+      "url": "https://wiki.tholos.app/s/public",
+      "type": "sdk",
+      "language": "Solidity"
+    }
+  ]
+} 

@@ -1,0 +1,12 @@
+{
+  "entity": "Redstone",
+  "tools": [
+    {
+      "name": "Redstone Feeds",
+      "description": "Popular oracle data feeds for EVM networks including HyperEVM.",
+      "url": "https://app.redstone.finance/app/feeds/?page=1&sortBy=popularity&sortDesc=false&perPage=32&networks=999,998",
+      "type": "sdk",
+      "language": "Solidity"
+    }
+  ]
+} 

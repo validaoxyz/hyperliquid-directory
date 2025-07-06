@@ -1,0 +1,10 @@
+{
+  "entity": "Hyperdrive",
+  "guides": [
+    {
+      "title": "The Not-So-Definitive guide to Hyperliquid Precompiles.",
+      "description": "Imagine if Binance allowed smart contract developers to deploy on the Binance order books… this is what Hyperliquid enables.",
+      "url": "https://medium.com/@ambitlabs/the-not-so-definitive-guide-to-hyperliquid-precompiles-f0b6025bb4a3"
+    }
+  ]
+}

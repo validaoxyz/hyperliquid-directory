@@ -1,0 +1,9 @@
+{
+  "entity": "Sim",
+  "apis": [
+    {
+      "name": "Sim API",
+      "url": "https://sim.dune.com/"
+    }
+  ]
+} 
