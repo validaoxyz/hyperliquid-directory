@@ -4,7 +4,7 @@
     {
       "name": "Gelato Web3 Services",
       "description": "Automation and execution tooling for smart contracts.",
-      "url": "https://docs.gelato.network/web3-services",
+      "url": "https://docs.gelato.cloud/Web3-Functions/Introduction/Overview",
       "type": "sdk",
       "language": "TypeScript"
     }
