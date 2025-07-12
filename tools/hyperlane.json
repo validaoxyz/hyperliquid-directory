@@ -1,0 +1,12 @@
+{
+  "entity": "Hyperlane",
+  "tools": [
+    {
+      "name": "Hyperlane Messaging",
+      "description": "Permisionless Hyperlane cross-chain messaging.",
+      "url": "https://docs.hyperlane.xyz/docs/reference/developer-tools/cli",
+      "type": "sdk",
+      "language": "Solidity"
+    }
+  ]
+} 

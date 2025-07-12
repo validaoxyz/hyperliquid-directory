@@ -1,0 +1,12 @@
+{
+  "entity": "Proof of Play",
+  "tools": [
+    {
+      "name": "VRNG",
+      "description": "Verifiable Random Number Generator for smart contracts.",
+      "url": "https://docs.proofofplay.com/services/vrng/about",
+      "type": "sdk",
+      "language": "Solidity"
+    }
+  ]
+} 

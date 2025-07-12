@@ -1,0 +1,12 @@
+{
+  "entity": "Stork",
+  "tools": [
+    {
+      "name": "Stork Oracle Feeds",
+      "description": "EVM-compatible oracle feeds with HyperEVM support.",
+      "url": "https://docs.stork.network/resources/contract-addresses/evm#hyperevm",
+      "type": "sdk",
+      "language": "Solidity"
+    }
+  ]
+} 

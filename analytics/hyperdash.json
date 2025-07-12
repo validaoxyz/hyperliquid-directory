@@ -1,0 +1,11 @@
+{
+  "entity": "HyperDash",
+  "dashboards": [
+    {
+      "name": "HyperDash",
+      "url": "https://hyperdash.info/",
+      "description": "Analytics and insights for the Hyperliquid ecosystem.",
+      "type": "custom"
+    }
+  ]
+}

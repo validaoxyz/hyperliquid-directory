@@ -1,0 +1,9 @@
+{
+  "entity": "Blocksense",
+  "apis": [
+    {
+      "name": "Blocksense Price Feed API",
+      "url": "https://coda.io/@georgi-zlatarev/blocksense-hyperevm-price-feeds"
+    }
+  ]
+} 

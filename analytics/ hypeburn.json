@@ -1,0 +1,11 @@
+{
+    "entity": "Hypeburn",
+    "dashboards": [
+      {
+        "name": "HYPE Burn",
+        "url": "https://www.hypeburn.fun/",
+        "description": "Hyperliquid token accrual and builder revenue data.",
+        "type": "custom"
+      }
+    ]
+  }

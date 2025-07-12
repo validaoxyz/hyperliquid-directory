@@ -1,0 +1,11 @@
+{
+    "entity": "Neutrl Labs",
+    "dashboards": [
+      {
+        "name": "HypeFlows",
+        "url": "https://hypeflows.com/",
+        "description": "The best place to track Hyperliquid's trading stats against Centralized Exchanges.",
+        "type": "custom"
+      }
+    ]
+  }
