@@ -1,0 +1,16 @@
+{
+  "entity": "vaultvision",
+  "guides": [
+    {
+      "title": "Hyperliquid Vault Due-Diligence Checklists",
+      "description": "Practical checklists for comparing Hyperliquid vault rankings, risk, drawdown, TVL, deposit status, positions, entry quality, and HLP alternatives",
+      "url": "https://0xkayser.github.io/awesome-hyperliquid-vaults/",
+      "difficulty": "beginner",
+      "topics": [
+        "vaults",
+        "risk-management",
+        "defi"
+      ]
+    }
+  ]
+}
