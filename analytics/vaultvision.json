@@ -1,0 +1,11 @@
+{
+  "entity": "vaultvision",
+  "dashboards": [
+    {
+      "name": "VaultVision Hyperliquid Vault Scanner",
+      "url": "https://vaultvision.tech/vaults/scanner",
+      "description": "Live Hyperliquid vault rankings with TVL, drawdown, risk scores, deposit status, and entry labels",
+      "type": "custom"
+    }
+  ]
+}

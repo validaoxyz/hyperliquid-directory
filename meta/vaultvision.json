@@ -1,0 +1,10 @@
+{
+  "name": "VaultVision",
+  "website": "https://vaultvision.tech",
+  "description": "Independent Hyperliquid vault analytics and due-diligence scanner",
+  "logoUrl": "https://vaultvision.tech/apple-touch-icon.png",
+  "socials": [
+    "https://x.com/0xkayser",
+    "https://github.com/0xkayser/awesome-hyperliquid-vaults"
+  ]
+}
