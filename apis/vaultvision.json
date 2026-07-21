@@ -1,0 +1,15 @@
+{
+  "entity": "vaultvision",
+  "apis": [
+    {
+      "name": "VaultVision Public Vault API",
+      "url": "https://vaultvision.tech/developers",
+      "description": "Read-only JSON API documentation for tracked Hyperliquid vaults, vault details, risk-adjusted rankings, and current signals. No authentication is required for documented read endpoints."
+    },
+    {
+      "name": "VaultVision OpenAPI Document",
+      "url": "https://vaultvision.tech/openapi.json",
+      "description": "Machine-readable OpenAPI contract for the public read-only VaultVision API."
+    }
+  ]
+}

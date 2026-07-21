@@ -1,0 +1,9 @@
+{
+  "name": "VaultVision",
+  "website": "https://vaultvision.tech/",
+  "description": "Read-only Hyperliquid vault scanner and research interface for comparing tracked vaults by TVL, reported APR, drawdown, modeled risk, positions, flows, deposit status, and entry context.",
+  "logoUrl": "https://vaultvision.tech/logo.png",
+  "socials": [
+    "https://x.com/0xkayser"
+  ]
+}
