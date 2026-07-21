@@ -1,0 +1,23 @@
+{
+  "entity": "vaultvision",
+  "dashboards": [
+    {
+      "name": "VaultVision Hyperliquid Vault Scanner",
+      "url": "https://vaultvision.tech/vaults/scanner",
+      "description": "Scanner for tracked Hyperliquid vaults with TVL, reported APR, drawdown, modeled risk, entry context, and deposit-state context.",
+      "type": "custom"
+    },
+    {
+      "name": "VaultVision Vault Rankings",
+      "url": "https://vaultvision.tech/vaults/rankings",
+      "description": "Hyperliquid vault comparison rankings with links to crawlable vault detail and research pages.",
+      "type": "custom"
+    },
+    {
+      "name": "VaultVision Vault Risk",
+      "url": "https://vaultvision.tech/vaults/risk",
+      "description": "Vault risk comparison surface that keeps modeled risk, drawdown, liquidity, data quality, and current vault context separate from return claims.",
+      "type": "custom"
+    }
+  ]
+}
