@@ -1,0 +1,17 @@
+{
+  "entity": "hyperindex",
+  "dashboards": [
+    {
+      "name": "HyperIndex Aggregate Positioning",
+      "url": "https://hyperindex.io/?utm_source=hyperliquid_directory&utm_medium=referral&utm_campaign=ecosystem_listing&utm_content=dashboard",
+      "description": "Hourly aggregate positioning from 100 screened Hyperliquid traders, summarized through a HEAT Score and asset-level reads.",
+      "type": "custom"
+    },
+    {
+      "name": "HyperIndex Proof Ledger",
+      "url": "https://hyperindex.io/proof.html?utm_source=hyperliquid_directory&utm_medium=referral&utm_campaign=ecosystem_listing&utm_content=proof",
+      "description": "Timestamped aggregate positioning snapshots and delayed examples of Core material-change alerts.",
+      "type": "custom"
+    }
+  ]
+}
