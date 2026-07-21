@@ -1,0 +1,10 @@
+{
+  "name": "HyperIndex",
+  "website": "https://hyperindex.io/",
+  "description": "Read-only Hyperliquid positioning monitor built from the aggregate positions of 100 screened traders.",
+  "logoUrl": "https://hyperindex.io/images/logo-icon.jpg",
+  "socials": [
+    "https://x.com/HyperIndexApp",
+    "https://t.me/HyperIndexSignals"
+  ]
+}
