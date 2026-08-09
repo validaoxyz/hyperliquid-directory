@@ -1,0 +1,11 @@
+{
+  "entity": "hyperalerts",
+  "dashboards": [
+    {
+      "name": "HyperAlerts",
+      "url": "https://hyperliquid.tv/",
+      "description": "Free real-time Hyperliquid market intelligence with configurable price, funding, open-interest and volume alerts, wallet and large-trade tracking, live news, Radar, Heatmap, HIP-3 earnings and global market hours.",
+      "type": "custom"
+    }
+  ]
+}
