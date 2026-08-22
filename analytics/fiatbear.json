@@ -1,0 +1,11 @@
+{
+  "entity": "fiatbear",
+  "dashboards": [
+    {
+      "name": "Hyperliquid Copyability Audit",
+      "url": "https://app.fiatbear.com/audit/hyperliquid",
+      "description": "Public audit of Hyperliquid leaderboard wallets focused on trading history, drawdown, position behavior, and practical copyability",
+      "type": "custom"
+    }
+  ]
+}
