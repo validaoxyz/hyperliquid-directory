@@ -1,0 +1,10 @@
+{
+  "name": "FiatBear",
+  "website": "https://fiatbear.com/",
+  "description": "Non-custodial Hyperliquid copy trading with public wallet audits and transparent copyability checks",
+  "logoUrl": "https://fiatbear.com/wp-content/themes/generatepress_child/assets/images/logo.png",
+  "socials": [
+    "https://x.com/FiatBearDotCom",
+    "https://t.me/fiatbear"
+  ]
+}
