@@ -1,0 +1,12 @@
+{
+  "entity": "perpbrain",
+  "tools": [
+    {
+      "name": "perpbrain-sdk",
+      "description": "TypeScript SDK and stdio MCP server for Hyperliquid perps: keyless public /info reads, order-book fill simulation with fees and slippage, owner-set limits with a kill switch, and verified and reproducible receipt checks. No order path and no keys.",
+      "url": "https://github.com/PERPBRAIN/perpbrain-sdk",
+      "type": "sdk",
+      "language": "TypeScript"
+    }
+  ]
+}
