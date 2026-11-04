@@ -1,0 +1,17 @@
+{
+  "entity": "siebly",
+  "tools": [
+    {
+      "name": "Hyperliquid JavaScript SDK",
+      "description": "TypeScript-first Hyperliquid API client for Node.js with REST and WebSocket support",
+      "url": "https://siebly.io/sdk/hyperliquid/javascript",
+      "type": "sdk",
+      "language": "TypeScript"
+    }
+  ]
+}
+
+
+
+
+
